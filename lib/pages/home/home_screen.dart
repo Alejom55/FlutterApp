@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:myapp/pages/counter/counter_screen.dart';
 import 'package:myapp/pages/home/widgets/custom_bottom_navigation_bar.dart';
 import 'package:myapp/pages/pokemon/pokemon_screen.dart';
-import 'package:myapp/pages/timer/image_screen.dart';
+import 'package:myapp/pages/image/image_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   final int currentIndex;
